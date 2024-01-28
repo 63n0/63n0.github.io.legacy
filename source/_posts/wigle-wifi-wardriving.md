@@ -2,7 +2,9 @@
 title: WiGLE WiFi Wardrivingを利用したウォードライビング
 date: 2024-01-28 14:58:11
 category: wireless
-tags: Wireless, Wardriving
+tags: 
+    - 'Wireless' 
+    - 'Wardriving'
 ---
 
 世界中のWiFiアクセスポイントの情報を収集したデータベースとして [WiGLE.net](https://www.wigle.net/) というWebサイトがある。現在、2024年1月時点で12億を超える[\[1\]](https://www.wigle.net/)アクセスポイントを記録した膨大なデータベースはユーザの投稿によって成り立っている。各ユーザはウォードライビングなどの手法でWiFiアクセスポイントの情報を収集し、それらをWiGLE.net上の[投稿フォーム](https://wigle.net/uploads)から投稿する。
