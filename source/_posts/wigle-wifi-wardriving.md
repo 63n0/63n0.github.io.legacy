@@ -1,7 +1,7 @@
 ---
 title: WiGLE WiFi Wardrivingを利用したウォードライビング
 date: 2024-01-28 14:58:11
-category: wireless
+category: Wireless
 tags: 
     - 'Wireless' 
     - 'Wardriving'
